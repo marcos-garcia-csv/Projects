@@ -7,6 +7,9 @@
 [`Life Expectancy & GDP Dashboard`](https://github.com/marcos-garcia-csv/Life-Expectancy-and-GDP-Dashboard-Power-BI/tree/main)
 
 ## SQL
+
+###MySQL
+[`Northwind MySQL Analysis`](https://github.com/marcos-garcia-csv/Business-EDA/tree/main)
 [`SuperStore Sales`](https://github.com/marcos-garcia-csv/SuperStore-Sales)
 
 ## Excel

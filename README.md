@@ -16,4 +16,4 @@
 
 ## Tableau
 1. [`SuperStore Sales Dashboard`](https://github.com/marcos-garcia-csv/SuperStore-Sales-Visualizations-Tableau/blob/main/README.md)
-2. [`Northwind Database EDA`](https://github.com/marcos-garcia-csv/Northwin-Database-Viz/tree/main)
+2. [`Northwind Database Dashboard`](https://github.com/marcos-garcia-csv/Northwin-Database-Viz/tree/main)

@@ -4,7 +4,8 @@
 [`Covid-vs-DGP-analysis`](https://github.com/marcos-garcia-csv/Covid-vs-DGP-analysis)
 
 ## Power BI
-[`Life Expectancy & GDP Dashboard`](https://github.com/marcos-garcia-csv/Life-Expectancy-and-GDP-Dashboard-Power-BI/tree/main)
+1. [`HR-Analytics-Dashboard`](https://github.com/marcos-garcia-csv/HR-Analytics-Dashboard/tree/main)
+2. [`Life Expectancy & GDP Dashboard`](https://github.com/marcos-garcia-csv/Life-Expectancy-and-GDP-Dashboard-Power-BI/tree/main)
 
 ## SQL
 
